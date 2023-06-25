@@ -1,6 +1,6 @@
 # FinTech-Module-6-challenge 
 
-![San Francisco]
+![San Francisco](https://raw.githubusercontent.com/ScottyCodeman/FinTech-Module-6-challange/main/Starter_Code/Images/San_Francisco_from_the_Marin_Headlands_in_August_2022_(cropped2).jpg)
 
 # San Francisco Housing
 
